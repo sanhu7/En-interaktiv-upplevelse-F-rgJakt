@@ -16,6 +16,9 @@ Ett enkelt webbaserat spel där spelaren ska klicka på en färgcirkel och sedan
 
 Öppna spelet här:(https://sanhu7.github.io/En-interaktiv-upplevelse-F-rgJakt/)
 
+## GitHub repo:
+https://github.com/sanhu7/En-interaktiv-upplevelse-F-rgJakt
+
 ## Instruktioner -- Så spelar du
 
 1.  Klicka på en färgcirkel (t.ex. röd).
