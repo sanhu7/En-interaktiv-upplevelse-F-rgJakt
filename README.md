@@ -14,7 +14,7 @@ Ett enkelt webbaserat spel där spelaren ska klicka på en färgcirkel och sedan
 
 ## Demo (GitHub Pages)
 
-[Öppna spelet här](DEMO-LÄNK-HÄR)
+Öppna spelet här:(https://sanhu7.github.io/En-interaktiv-upplevelse-F-rgJakt/)
 
 ## Instruktioner -- Så spelar du
 
@@ -68,3 +68,6 @@ Körs när arrayen med färger är tom och visar slutskärmen.
 -   MDN CSS display:
     https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
+
+
+  
